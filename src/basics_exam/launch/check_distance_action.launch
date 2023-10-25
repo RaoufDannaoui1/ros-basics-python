@@ -1,0 +1,3 @@
+<launch>
+  <node name="check_distance_action_node" pkg="basics_exam" type="check_distance_action.py" output="screen" />
+</launch>

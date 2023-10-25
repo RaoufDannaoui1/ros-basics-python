@@ -1,0 +1,3 @@
+<launch>
+  <node name="squre_motion_node" pkg="basics_exam" type="square_motion.py" output="screen" />
+</launch>

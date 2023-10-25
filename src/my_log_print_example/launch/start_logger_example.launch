@@ -1,0 +1,5 @@
+<launch>
+    <!-- Start Service Server for move_bb8_in_circle service -->
+    <node pkg="my_log_print_example" type="logger_example.py" name="log_demo"  output="screen">
+    </node>
+</launch>

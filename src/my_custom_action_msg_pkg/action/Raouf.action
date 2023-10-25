@@ -1,0 +1,8 @@
+#goal
+package_where_message_is/message_type goal_var_name
+---
+#result
+package_where_message_is/message_type result_var_name
+---
+#feedback
+package_where_message_is/message_type feedback_var_name

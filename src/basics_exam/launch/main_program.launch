@@ -1,0 +1,10 @@
+<launch>
+  <include file="$(find basics_exam)/launch/distance_motion_service.launch"/> 
+  <include file="$(find basics_exam)/launch/check_distance_action.launch"/> 
+
+  <node pkg ="basics_exam"                            
+        type="main_program.py"
+        name="main_node"      
+        output="screen">             
+  </node>
+</launch>

@@ -1,0 +1,3 @@
+<launch>
+  <node name="motion_service_node" pkg="basics_exam" type="motion_service.py" output="screen" />
+</launch>

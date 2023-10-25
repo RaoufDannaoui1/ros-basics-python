@@ -1,0 +1,3 @@
+<launch>
+  <node name="dist_motion_service_node" pkg="basics_exam" type="distance_motion_service.py" output="screen" />
+</launch>
